@@ -8,7 +8,7 @@ Alpine NGINX based on alpine-base-amd64
 * version 3
 
 ## Purpose
-* static web server
+* web server
 * nginx
 
 
