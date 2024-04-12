@@ -1,5 +1,5 @@
-# alpine-nginx-amd64-amd64
-Alpine NGINX based on alpine-base-amd64
+# alpine-nginx-php-hl
+Alpine NGINX based on alpine-base-hl
 
 ## Document Root
 * `/opt/www/`
